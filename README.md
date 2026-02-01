@@ -16,7 +16,7 @@ It provides real-time monitoring for **NVIDIA/AMD** GPU(s) under load, with thro
 # Run GPU monitoring and throttling detection
 python main.py
 ```
-## Requirements
+## Packages Requirements
 - NVIDIA: pynvml
 - AMD on Linux: pyamdgpuinfo
 - AMD on Windows: pynvml_amd_windows (experimental)
